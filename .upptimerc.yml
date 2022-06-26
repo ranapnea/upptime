@@ -16,6 +16,8 @@ sites:
     url: https://easybp.app
   - name: Mindly
     url: https://www.mindlyapp.com
+  - name: Failing Test Site
+    url: https://timestack.cc/nothing-here
 
 status-website:
   baseUrl: /upptime
