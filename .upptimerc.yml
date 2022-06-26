@@ -17,7 +17,7 @@ sites:
   - name: Mindly
     url: https://www.mindlyapp.com
   - name: Failing Test Site
-    url: https://timestack.cc/nothing-here
+    url: https://www.mindlyapp.com/nothing-here
 
 status-website:
   baseUrl: /upptime
