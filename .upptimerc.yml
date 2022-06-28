@@ -10,14 +10,14 @@ sites:
     url: https://www.google.com
   - name: LifeSystem
     url: http://life-system.app/
-  - name: TimeStack
+  - name: TimeStack - web
     url: https://timestack.cc
+  - name: TimeStack -api
+    url: https://timestack.cc/v1/service-health-check
   - name: EasyBp
     url: https://easybp.app
   - name: Mindly
     url: https://www.mindlyapp.com
-  - name: Failing Test Site
-    url: https://timestack.cc/nothing-here
   - name: Failing Test Site
     url: https://timestack.cc/nothing-here
 
