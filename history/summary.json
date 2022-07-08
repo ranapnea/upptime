@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/timestack.cc",
     "slug": "time-stack-api",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.24%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 40,
     "timeDay": 81,
     "timeWeek": 43,
@@ -78,10 +78,10 @@
     "url": "https://easybp.app",
     "icon": "https://favicons.githubusercontent.com/easybp.app",
     "slug": "easy-bp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 895,
@@ -89,14 +89,16 @@
     "timeWeek": 891,
     "timeMonth": 895,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 1
+    }
   },
   {
     "name": "Mindly",
     "url": "https://www.mindlyapp.com",
     "icon": "https://favicons.githubusercontent.com/www.mindlyapp.com",
     "slug": "mindly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -107,7 +109,9 @@
     "timeWeek": 870,
     "timeMonth": 938,
     "timeYear": 938,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Failing Test Site",
