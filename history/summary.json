@@ -78,9 +78,9 @@
     "url": "https://easybp.app",
     "icon": "https://favicons.githubusercontent.com/easybp.app",
     "slug": "easy-bp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -90,6 +90,7 @@
     "timeMonth": 925,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2022-09-09": 0,
       "2022-08-26": 35,
       "2022-07-08": 24
     }
