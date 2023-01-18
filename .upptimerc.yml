@@ -8,6 +8,8 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Google
     url: https://www.google.com
+  - name: SWYE -api
+    url: https://swye.app/v1/service-health-check
   - name: LifeSystem
     url: http://life-system.app/
   - name: TimeStack - web
