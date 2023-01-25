@@ -40,10 +40,10 @@
     "url": "http://life-system.app/",
     "icon": "https://icons.duckduckgo.com/ip3/life-system.app.ico",
     "slug": "life-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
@@ -51,17 +51,19 @@
     "timeWeek": 338,
     "timeMonth": 332,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "TimeStack - web",
     "url": "https://timestack.cc",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
@@ -69,7 +71,9 @@
     "timeWeek": 167,
     "timeMonth": 169,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "TimeStack -api",
@@ -97,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/easybp.app.ico",
     "slug": "easy-bp",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 895,
     "timeDay": 1163,
     "timeWeek": 931,
     "timeMonth": 877,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 27,
       "2022-10-14": 27,
       "2022-10-01": 27,
       "2022-09-09": 37,
@@ -121,9 +125,9 @@
     "url": "https://www.mindlyapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mindlyapp.com.ico",
     "slug": "mindly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -133,6 +137,7 @@
     "timeMonth": 879,
     "timeYear": 886,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-10-14": 27,
       "2022-10-01": 27,
       "2022-08-26": 34,
