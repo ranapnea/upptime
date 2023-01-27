@@ -1,7 +1,7 @@
 url: https://swye.app/v1/service-health-check
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2023-01-27T17:49:48.132Z
+status: down
+code: 502
+responseTime: 221
+lastUpdated: 2023-01-27T18:15:41.240Z
 startTime: Wed Jan 18 2023 10:35:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
