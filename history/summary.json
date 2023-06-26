@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 77,
-    "timeWeek": 111,
-    "timeMonth": 100,
+    "timeDay": 157,
+    "timeWeek": 124,
+    "timeMonth": 102,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/swye.app.ico",
     "slug": "swye-api",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 192,
-    "timeDay": 94,
-    "timeWeek": 186,
-    "timeMonth": 207,
+    "timeDay": 179,
+    "timeWeek": 180,
+    "timeMonth": 203,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2023-01-27": 593,
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 335,
-    "timeDay": 173,
-    "timeWeek": 336,
-    "timeMonth": 367,
+    "timeDay": 294,
+    "timeWeek": 317,
+    "timeMonth": 361,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 95,
-    "timeWeek": 174,
-    "timeMonth": 194,
+    "timeDay": 170,
+    "timeWeek": 167,
+    "timeMonth": 190,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 46,
-    "timeDay": 15,
+    "timeDay": 44,
     "timeWeek": 42,
-    "timeMonth": 49,
+    "timeMonth": 48,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2022-06-28": 246
@@ -110,9 +110,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 910,
-    "timeDay": 671,
-    "timeWeek": 825,
-    "timeMonth": 912,
+    "timeDay": 802,
+    "timeWeek": 819,
+    "timeMonth": 906,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2023-06-02": 22,
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 880,
-    "timeDay": 2112,
-    "timeWeek": 1003,
-    "timeMonth": 929,
-    "timeYear": 880,
+    "time": 881,
+    "timeDay": 1122,
+    "timeWeek": 1052,
+    "timeMonth": 920,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2023-06-02": 22,
       "2023-05-12": 16,
@@ -173,13 +173,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 13,
+    "timeDay": 40,
     "timeWeek": 39,
-    "timeMonth": 45,
+    "timeMonth": 44,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2022-06-28": 4,
-      "2022-06-26": 7
+      "2022-06-28": 4
     }
   }
 ]
