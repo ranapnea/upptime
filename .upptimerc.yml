@@ -20,6 +20,10 @@ sites:
     url: https://easybp.app
   - name: Mindly
     url: https://www.mindlyapp.com
+  - name: Histories - api
+    url: https://histories.pro/api/v1/service-health-check
+  - name: Histories - site
+    url: https://histories.pro/site/service-health-check
   - name: Failing Test Site
     url: https://timestack.cc/nothing-here
 
