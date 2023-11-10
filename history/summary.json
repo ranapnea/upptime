@@ -229,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/histories.pro.ico",
     "slug": "histories-site",
     "status": "down",
-    "uptime": "4.78%",
-    "uptimeDay": "4.78%",
-    "uptimeWeek": "4.78%",
-    "uptimeMonth": "4.78%",
-    "uptimeYear": "4.78%",
+    "uptime": "1.22%",
+    "uptimeDay": "1.22%",
+    "uptimeWeek": "1.22%",
+    "uptimeMonth": "1.22%",
+    "uptimeYear": "1.22%",
     "time": 80,
     "timeDay": 80,
     "timeWeek": 80,
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2023-11-10": 0
+      "2023-11-10": 1
     }
   },
   {
