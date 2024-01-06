@@ -26,11 +26,11 @@
     "url": "https://swye.app/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/swye.app.ico",
     "slug": "swye-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.85%",
     "time": 184,
     "timeDay": 274,
@@ -38,6 +38,7 @@
     "timeMonth": 193,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2024-01-06": 4,
       "2023-01-27": 593,
       "2023-01-26": 190
     }
@@ -48,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/life-system.app.ico",
     "slug": "life-system",
     "status": "down",
-    "uptime": "82.15%",
+    "uptime": "82.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.68%",
+    "uptimeYear": "72.49%",
     "time": 322,
     "timeDay": 417,
     "timeWeek": 883,
     "timeMonth": 445,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2024-01-06": 35,
+      "2024-01-06": 1074,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -168,11 +169,11 @@
     "url": "https://timestack.cc",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 176,
     "timeDay": 266,
@@ -180,6 +181,7 @@
     "timeMonth": 175,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2024-01-06": 3,
       "2023-01-25": 28
     }
   },
@@ -188,18 +190,20 @@
     "url": "https://timestack.cc/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 44,
     "timeDay": 65,
     "timeWeek": 49,
     "timeMonth": 47,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 2
+    }
   },
   {
     "name": "EasyBp",
@@ -268,10 +272,10 @@
     "url": "https://histories.pro/api/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/histories.pro.ico",
     "slug": "histories-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
@@ -279,25 +283,28 @@
     "timeWeek": 234,
     "timeMonth": 208,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 2
+    }
   },
   {
     "name": "Histories - site",
     "url": "https://histories.pro/site/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/histories.pro.ico",
     "slug": "histories-site",
-    "status": "up",
-    "uptime": "89.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "89.58%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.45%",
+    "uptimeYear": "89.58%",
     "time": 43,
     "timeDay": 65,
     "timeWeek": 46,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {
+      "2024-01-06": 1,
       "2023-11-16": 410,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -312,9 +319,9 @@
     "url": "https://timestack.cc/nothing-here",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "failing-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -323,6 +330,8 @@
     "timeWeek": 44,
     "timeMonth": 42,
     "timeYear": 38,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   }
 ]
