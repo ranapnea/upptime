@@ -56,7 +56,7 @@
     "timeMonth": 305,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2024-11-08": 44,
+      "2024-11-08": 259,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -468,9 +468,9 @@
     "url": "https://easybp.app",
     "icon": "https://icons.duckduckgo.com/ip3/easybp.app.ico",
     "slug": "easy-bp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "96.48%",
     "uptimeYear": "99.66%",
@@ -480,6 +480,7 @@
     "timeMonth": 1953,
     "timeYear": 1072,
     "dailyMinutesDown": {
+      "2024-11-08": 0,
       "2024-11-05": 78,
       "2024-10-16": 739,
       "2024-10-15": 724,
