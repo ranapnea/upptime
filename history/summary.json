@@ -24,18 +24,20 @@
     "url": "https://swye.app/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/swye.app.ico",
     "slug": "swye-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 195,
+    "time": 194,
     "timeDay": 159,
     "timeWeek": 165,
     "timeMonth": 173,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 3
+    }
   },
   {
     "name": "LifeSystem",
@@ -43,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/life-system.app.ico",
     "slug": "life-system",
     "status": "down",
-    "uptime": "46.79%",
+    "uptime": "46.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -54,7 +56,7 @@
     "timeMonth": 266,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-03-03": 50,
+      "2025-03-03": 1038,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -426,28 +428,30 @@
     "url": "https://timestack.cc",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 178,
+    "time": 177,
     "timeDay": 73,
     "timeWeek": 150,
     "timeMonth": 152,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 2
+    }
   },
   {
     "name": "TimeStack -api",
     "url": "https://timestack.cc/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
@@ -455,7 +459,9 @@
     "timeWeek": 29,
     "timeMonth": 33,
     "timeYear": 39,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 2
+    }
   },
   {
     "name": "EasyBp",
@@ -511,10 +517,10 @@
     "url": "https://histories.pro/api/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/histories.pro.ico",
     "slug": "histories-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
@@ -522,17 +528,19 @@
     "timeWeek": 776,
     "timeMonth": 326,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 1
+    }
   },
   {
     "name": "Histories - site",
     "url": "https://histories.pro/site/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/histories.pro.ico",
     "slug": "histories-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
@@ -540,16 +548,18 @@
     "timeWeek": 24,
     "timeMonth": 27,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 1
+    }
   },
   {
     "name": "Failing Test Site",
     "url": "https://timestack.cc/nothing-here",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "failing-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -558,6 +568,8 @@
     "timeWeek": 24,
     "timeMonth": 27,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]
