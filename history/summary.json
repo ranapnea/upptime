@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/life-system.app.ico",
     "slug": "life-system",
     "status": "down",
-    "uptime": "45.35%",
+    "uptime": "45.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,7 @@
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-04-03": 51,
+      "2025-04-03": 950,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -428,18 +428,19 @@
     "url": "https://timestack.cc",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 178,
+    "time": 177,
     "timeDay": 107,
     "timeWeek": 114,
     "timeMonth": 160,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-03-03": 46
     }
   },
@@ -448,9 +449,9 @@
     "url": "https://timestack.cc/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
@@ -460,6 +461,7 @@
     "timeMonth": 33,
     "timeYear": 38,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-03-03": 45
     }
   },
@@ -556,11 +558,11 @@
     "url": "https://timestack.cc/nothing-here",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "failing-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 35,
     "timeDay": 12,
@@ -568,6 +570,7 @@
     "timeMonth": 28,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-03-03": 28
     }
   }
