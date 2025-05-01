@@ -13,11 +13,9 @@
     "time": 111,
     "timeDay": 173,
     "timeWeek": 123,
-    "timeMonth": 116,
+    "timeMonth": 113,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2024-05-01": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SWYE -api",
@@ -33,7 +31,7 @@
     "time": 199,
     "timeDay": 275,
     "timeWeek": 244,
-    "timeMonth": 233,
+    "timeMonth": 236,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-03-03": 48
@@ -48,15 +46,16 @@
     "uptime": "44.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 318,
     "timeDay": 584,
     "timeWeek": 414,
-    "timeMonth": 373,
+    "timeMonth": 381,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-04-30": 1430,
+      "2025-05-01": 59,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -419,8 +418,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -437,7 +435,7 @@
     "time": 182,
     "timeDay": 463,
     "timeWeek": 299,
-    "timeMonth": 250,
+    "timeMonth": 254,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-04-03": 176,
@@ -458,7 +456,7 @@
     "time": 47,
     "timeDay": 290,
     "timeWeek": 183,
-    "timeMonth": 147,
+    "timeMonth": 151,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2025-04-03": 176,
@@ -472,17 +470,16 @@
     "slug": "easy-bp",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.67%",
     "time": 1043,
     "timeDay": 959,
     "timeWeek": 1086,
-    "timeMonth": 988,
+    "timeMonth": 995,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2025-04-30": 11,
       "2025-04-18": 87,
       "2025-04-12": 17,
       "2024-11-08": 21,
@@ -507,7 +504,7 @@
     "time": 1006,
     "timeDay": 1237,
     "timeWeek": 1054,
-    "timeMonth": 970,
+    "timeMonth": 978,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2025-04-18": 87,
@@ -529,7 +526,7 @@
     "time": 223,
     "timeDay": 237,
     "timeWeek": 253,
-    "timeMonth": 272,
+    "timeMonth": 278,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-03-03": 29
@@ -549,7 +546,7 @@
     "time": 36,
     "timeDay": 64,
     "timeWeek": 48,
-    "timeMonth": 42,
+    "timeMonth": 43,
     "timeYear": 34,
     "dailyMinutesDown": {
       "2025-03-03": 29
@@ -569,7 +566,7 @@
     "time": 42,
     "timeDay": 271,
     "timeWeek": 175,
-    "timeMonth": 146,
+    "timeMonth": 150,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2025-04-03": 176,
