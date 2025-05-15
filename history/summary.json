@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/life-system.app.ico",
     "slug": "life-system",
     "status": "down",
-    "uptime": "43.54%",
+    "uptime": "43.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -54,7 +54,7 @@
     "timeMonth": 387,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-05-15": 53,
+      "2025-05-15": 982,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -426,9 +426,9 @@
     "url": "https://timestack.cc",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -438,6 +438,7 @@
     "timeMonth": 289,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2025-05-15": 0,
       "2025-04-03": 176,
       "2025-03-03": 46
     }
@@ -447,9 +448,9 @@
     "url": "https://timestack.cc/v1/service-health-check",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "time-stack-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -459,6 +460,7 @@
     "timeMonth": 164,
     "timeYear": 51,
     "dailyMinutesDown": {
+      "2025-05-15": 0,
       "2025-04-03": 176,
       "2025-03-03": 45
     }
@@ -557,9 +559,9 @@
     "url": "https://timestack.cc/nothing-here",
     "icon": "https://icons.duckduckgo.com/ip3/timestack.cc.ico",
     "slug": "failing-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -569,6 +571,7 @@
     "timeMonth": 166,
     "timeYear": 47,
     "dailyMinutesDown": {
+      "2025-05-15": 0,
       "2025-04-03": 176,
       "2025-03-03": 28
     }
