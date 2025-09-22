@@ -1,7 +1,7 @@
 url: https://histories.pro/api/v1/service-health-check
-status: down
-code: 403
-responseTime: 441
-lastUpdated: 2025-09-22T14:42:16.705Z
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2025-09-22T16:43:31.524Z
 startTime: 2023-11-10T07:14:47.349Z
 generator: Upptime <https://github.com/upptime/upptime>
